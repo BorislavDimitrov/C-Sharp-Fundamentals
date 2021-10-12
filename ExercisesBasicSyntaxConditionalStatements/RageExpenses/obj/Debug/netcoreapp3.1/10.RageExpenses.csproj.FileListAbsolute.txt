@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.exe
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.deps.json
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.json
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.dll
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.pdb
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfo.cs
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.dll
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.pdb
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\bin\Debug\netcoreapp3.1\09.PadwanEquipment.exe
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\bin\Debug\netcoreapp3.1\09.PadwanEquipment.deps.json
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\bin\Debug\netcoreapp3.1\09.PadwanEquipment.runtimeconfig.json
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\bin\Debug\netcoreapp3.1\09.PadwanEquipment.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\bin\Debug\netcoreapp3.1\09.PadwanEquipment.dll
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\bin\Debug\netcoreapp3.1\09.PadwanEquipment.pdb
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\obj\Debug\netcoreapp3.1\09.PadwanEquipment.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\obj\Debug\netcoreapp3.1\09.PadwanEquipment.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\obj\Debug\netcoreapp3.1\09.PadwanEquipment.AssemblyInfo.cs
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\obj\Debug\netcoreapp3.1\09.PadwanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\obj\Debug\netcoreapp3.1\09.PadwanEquipment.dll
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\obj\Debug\netcoreapp3.1\09.PadwanEquipment.pdb
+C:\Users\User\source\repos\02.ExercisesBasicSyntaxConditionalStatements\09.PadwanEquipment\obj\Debug\netcoreapp3.1\09.PadwanEquipment.genruntimeconfig.cache
