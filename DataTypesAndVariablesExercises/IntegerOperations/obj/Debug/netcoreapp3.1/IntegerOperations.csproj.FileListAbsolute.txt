@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.exe
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.deps.json
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.json
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfo.cs
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.genruntimeconfig.cache

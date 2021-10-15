@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PringPartOfASCIITable.exe
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PringPartOfASCIITable.deps.json
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PringPartOfASCIITable.runtimeconfig.json
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PringPartOfASCIITable.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PringPartOfASCIITable.dll
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PringPartOfASCIITable.pdb
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PringPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PringPartOfASCIITable.AssemblyInfo.cs
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PringPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PringPartOfASCIITable.dll
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PringPartOfASCIITable.pdb
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\05.PringPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PringPartOfASCIITable.genruntimeconfig.cache

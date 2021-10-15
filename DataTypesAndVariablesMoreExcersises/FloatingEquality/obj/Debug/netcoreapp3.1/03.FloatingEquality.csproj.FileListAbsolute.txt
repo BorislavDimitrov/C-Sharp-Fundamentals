@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.exe
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.deps.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.runtimeconfig.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.dll
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.pdb
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.AssemblyInfo.cs
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.dll
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.pdb
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.genruntimeconfig.cache

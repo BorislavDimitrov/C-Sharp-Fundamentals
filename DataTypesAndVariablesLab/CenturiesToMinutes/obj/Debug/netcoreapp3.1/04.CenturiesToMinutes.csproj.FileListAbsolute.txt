@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.exe
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.deps.json
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.runtimeconfig.json
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.dll
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.pdb
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.dll
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.pdb
+C:\Users\User\source\repos\04.DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.genruntimeconfig.cache

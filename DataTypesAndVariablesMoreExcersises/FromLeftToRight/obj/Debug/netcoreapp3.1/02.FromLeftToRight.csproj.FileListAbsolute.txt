@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\bin\Debug\netcoreapp3.1\02.FromLeftToRight.exe
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\bin\Debug\netcoreapp3.1\02.FromLeftToRight.deps.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\bin\Debug\netcoreapp3.1\02.FromLeftToRight.runtimeconfig.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\bin\Debug\netcoreapp3.1\02.FromLeftToRight.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\bin\Debug\netcoreapp3.1\02.FromLeftToRight.dll
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\bin\Debug\netcoreapp3.1\02.FromLeftToRight.pdb
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\obj\Debug\netcoreapp3.1\02.FromLeftToRight.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\obj\Debug\netcoreapp3.1\02.FromLeftToRight.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\obj\Debug\netcoreapp3.1\02.FromLeftToRight.AssemblyInfo.cs
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\obj\Debug\netcoreapp3.1\02.FromLeftToRight.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\obj\Debug\netcoreapp3.1\02.FromLeftToRight.dll
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\obj\Debug\netcoreapp3.1\02.FromLeftToRight.pdb
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\02.FromLeftToRight\obj\Debug\netcoreapp3.1\02.FromLeftToRight.genruntimeconfig.cache

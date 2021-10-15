@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\bin\Debug\netcoreapp3.1\05.DecryptingMessages.exe
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\bin\Debug\netcoreapp3.1\05.DecryptingMessages.deps.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\bin\Debug\netcoreapp3.1\05.DecryptingMessages.runtimeconfig.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\bin\Debug\netcoreapp3.1\05.DecryptingMessages.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\bin\Debug\netcoreapp3.1\05.DecryptingMessages.dll
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\bin\Debug\netcoreapp3.1\05.DecryptingMessages.pdb
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\obj\Debug\netcoreapp3.1\05.DecryptingMessages.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\obj\Debug\netcoreapp3.1\05.DecryptingMessages.AssemblyInfo.cs
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\obj\Debug\netcoreapp3.1\05.DecryptingMessages.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\obj\Debug\netcoreapp3.1\05.DecryptingMessages.dll
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\obj\Debug\netcoreapp3.1\05.DecryptingMessages.pdb
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\05.DecryptingMessages\obj\Debug\netcoreapp3.1\05.DecryptingMessages.genruntimeconfig.cache

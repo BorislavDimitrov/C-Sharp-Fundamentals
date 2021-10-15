@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\bin\Debug\netcoreapp3.1\11.SnowBalls.exe
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\bin\Debug\netcoreapp3.1\11.SnowBalls.deps.json
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\bin\Debug\netcoreapp3.1\11.SnowBalls.runtimeconfig.json
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\bin\Debug\netcoreapp3.1\11.SnowBalls.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\bin\Debug\netcoreapp3.1\11.SnowBalls.dll
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\bin\Debug\netcoreapp3.1\11.SnowBalls.pdb
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\obj\Debug\netcoreapp3.1\11.SnowBalls.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\obj\Debug\netcoreapp3.1\11.SnowBalls.AssemblyInfo.cs
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\obj\Debug\netcoreapp3.1\11.SnowBalls.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\obj\Debug\netcoreapp3.1\11.SnowBalls.dll
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\obj\Debug\netcoreapp3.1\11.SnowBalls.pdb
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\obj\Debug\netcoreapp3.1\11.SnowBalls.genruntimeconfig.cache
+C:\Users\User\source\repos\05.DataTypesAndVariablesExercises\11.SnowBalls\obj\Debug\netcoreapp3.1\11.SnowBalls.csproj.AssemblyReference.cache

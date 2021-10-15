@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.exe
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.deps.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.runtimeconfig.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.dll
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.pdb
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.AssemblyInfo.cs
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.dll
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.pdb
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.genruntimeconfig.cache
+C:\Users\User\source\repos\06.FundDataTypesAndVariablesMoreExcersises\04.RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\04.RefactoringPrimeChecker.csproj.AssemblyReference.cache
