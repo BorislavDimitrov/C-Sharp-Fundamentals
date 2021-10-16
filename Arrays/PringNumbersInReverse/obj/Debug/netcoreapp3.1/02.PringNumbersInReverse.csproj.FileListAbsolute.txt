@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\bin\Debug\netcoreapp3.1\02.PringNumbersInReverse.exe
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\bin\Debug\netcoreapp3.1\02.PringNumbersInReverse.deps.json
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\bin\Debug\netcoreapp3.1\02.PringNumbersInReverse.runtimeconfig.json
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\bin\Debug\netcoreapp3.1\02.PringNumbersInReverse.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\bin\Debug\netcoreapp3.1\02.PringNumbersInReverse.dll
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\bin\Debug\netcoreapp3.1\02.PringNumbersInReverse.pdb
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\obj\Debug\netcoreapp3.1\02.PringNumbersInReverse.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\obj\Debug\netcoreapp3.1\02.PringNumbersInReverse.AssemblyInfo.cs
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\obj\Debug\netcoreapp3.1\02.PringNumbersInReverse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\obj\Debug\netcoreapp3.1\02.PringNumbersInReverse.dll
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\obj\Debug\netcoreapp3.1\02.PringNumbersInReverse.pdb
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\obj\Debug\netcoreapp3.1\02.PringNumbersInReverse.genruntimeconfig.cache
+C:\Users\User\source\repos\07.Arrays\02.PringNumbersInReverse\obj\Debug\netcoreapp3.1\02.PringNumbersInReverse.csproj.AssemblyReference.cache
