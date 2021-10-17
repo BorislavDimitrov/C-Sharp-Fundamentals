@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.exe
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.deps.json
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.runtimeconfig.json
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.runtimeconfig.dev.json
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.dll
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.pdb
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.AssemblyInfo.cs
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.dll
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.pdb
+C:\Users\User\source\repos\12.MethodsMoreExcercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.genruntimeconfig.cache

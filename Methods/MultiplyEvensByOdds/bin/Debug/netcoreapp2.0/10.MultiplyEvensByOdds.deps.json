@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "10.MultiplyEvensByOdds/1.0.0": {
+        "runtime": {
+          "10.MultiplyEvensByOdds.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10.MultiplyEvensByOdds/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

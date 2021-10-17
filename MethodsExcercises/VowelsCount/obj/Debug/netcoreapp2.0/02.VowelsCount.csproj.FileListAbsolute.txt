@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\bin\Debug\netcoreapp2.0\02.VowelsCount.deps.json
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\bin\Debug\netcoreapp2.0\02.VowelsCount.runtimeconfig.json
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\bin\Debug\netcoreapp2.0\02.VowelsCount.runtimeconfig.dev.json
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\bin\Debug\netcoreapp2.0\02.VowelsCount.dll
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\bin\Debug\netcoreapp2.0\02.VowelsCount.pdb
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.AssemblyInfo.cs
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.dll
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.pdb
+C:\Users\User\source\repos\11MethodsExcercises\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.genruntimeconfig.cache

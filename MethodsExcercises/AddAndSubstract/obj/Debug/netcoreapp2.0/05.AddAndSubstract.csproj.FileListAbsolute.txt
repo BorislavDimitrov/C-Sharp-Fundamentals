@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\bin\Debug\netcoreapp2.0\05.AddAndSubstract.deps.json
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\bin\Debug\netcoreapp2.0\05.AddAndSubstract.runtimeconfig.json
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\bin\Debug\netcoreapp2.0\05.AddAndSubstract.runtimeconfig.dev.json
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\bin\Debug\netcoreapp2.0\05.AddAndSubstract.dll
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\bin\Debug\netcoreapp2.0\05.AddAndSubstract.pdb
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\obj\Debug\netcoreapp2.0\05.AddAndSubstract.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\obj\Debug\netcoreapp2.0\05.AddAndSubstract.AssemblyInfo.cs
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\obj\Debug\netcoreapp2.0\05.AddAndSubstract.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\obj\Debug\netcoreapp2.0\05.AddAndSubstract.dll
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\obj\Debug\netcoreapp2.0\05.AddAndSubstract.pdb
+C:\Users\User\source\repos\11MethodsExcercises\05.AddAndSubstract\obj\Debug\netcoreapp2.0\05.AddAndSubstract.genruntimeconfig.cache

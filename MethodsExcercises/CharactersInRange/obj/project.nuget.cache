@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZF33nF4rkLTm4kAoq/02TnX9P0zskvWa3XrrDWV1etgBV8EYm067WQZUpxFa80ZI3Y1QCP+1qUbq+bGnUbNrg==",
+  "success": true,
+  "projectFilePath": "D:\\My Documents\\Documents\\GitHub\\C-Sharp-Fundamentals\\MethodsExcercises\\03.CharactersInRange\\CharactersInRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
