@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\bin\Debug\netcoreapp3.1\09.NeedForSpeed3.exe
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\bin\Debug\netcoreapp3.1\09.NeedForSpeed3.deps.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\bin\Debug\netcoreapp3.1\09.NeedForSpeed3.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\bin\Debug\netcoreapp3.1\09.NeedForSpeed3.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\bin\Debug\netcoreapp3.1\09.NeedForSpeed3.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\bin\Debug\netcoreapp3.1\09.NeedForSpeed3.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\obj\Debug\netcoreapp3.1\09.NeedForSpeed3.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\obj\Debug\netcoreapp3.1\09.NeedForSpeed3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\obj\Debug\netcoreapp3.1\09.NeedForSpeed3.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\obj\Debug\netcoreapp3.1\09.NeedForSpeed3.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\obj\Debug\netcoreapp3.1\09.NeedForSpeed3.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\obj\Debug\netcoreapp3.1\09.NeedForSpeed3.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\obj\Debug\netcoreapp3.1\09.NeedForSpeed3.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\09.NeedForSpeed3\obj\Debug\netcoreapp3.1\09.NeedForSpeed3.genruntimeconfig.cache
