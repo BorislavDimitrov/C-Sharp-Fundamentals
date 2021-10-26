@@ -1,0 +1,13 @@
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.exe
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.deps.json
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.runtimeconfig.json
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.runtimeconfig.dev.json
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.dll
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.pdb
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.csproj.AssemblyReference.cache
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.AssemblyInfoInputs.cache
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.AssemblyInfo.cs
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.csproj.CoreCompileInputs.cache
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.dll
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.pdb
+D:\My Documents\Documents\GitHub\C-Sharp-Fundamentals\List\02.GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.genruntimeconfig.cache

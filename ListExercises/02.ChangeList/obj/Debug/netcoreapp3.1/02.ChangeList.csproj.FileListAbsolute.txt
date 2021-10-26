@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.exe
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.deps.json
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.runtimeconfig.json
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.runtimeconfig.dev.json
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.dll
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.pdb
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.AssemblyInfo.cs
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.dll
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.pdb
+C:\Users\User\source\repos\14.ListExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.genruntimeconfig.cache

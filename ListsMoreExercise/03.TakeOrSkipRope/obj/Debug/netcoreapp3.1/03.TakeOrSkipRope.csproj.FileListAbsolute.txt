@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\bin\Debug\netcoreapp3.1\03.TakeOrSkipRope.exe
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\bin\Debug\netcoreapp3.1\03.TakeOrSkipRope.deps.json
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\bin\Debug\netcoreapp3.1\03.TakeOrSkipRope.runtimeconfig.json
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\bin\Debug\netcoreapp3.1\03.TakeOrSkipRope.runtimeconfig.dev.json
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\bin\Debug\netcoreapp3.1\03.TakeOrSkipRope.dll
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\bin\Debug\netcoreapp3.1\03.TakeOrSkipRope.pdb
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\obj\Debug\netcoreapp3.1\03.TakeOrSkipRope.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\obj\Debug\netcoreapp3.1\03.TakeOrSkipRope.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\obj\Debug\netcoreapp3.1\03.TakeOrSkipRope.AssemblyInfo.cs
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\obj\Debug\netcoreapp3.1\03.TakeOrSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\obj\Debug\netcoreapp3.1\03.TakeOrSkipRope.dll
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\obj\Debug\netcoreapp3.1\03.TakeOrSkipRope.pdb
+C:\Users\User\source\repos\15.ListsMoreExercise\03.TakeOrSkipRope\obj\Debug\netcoreapp3.1\03.TakeOrSkipRope.genruntimeconfig.cache
