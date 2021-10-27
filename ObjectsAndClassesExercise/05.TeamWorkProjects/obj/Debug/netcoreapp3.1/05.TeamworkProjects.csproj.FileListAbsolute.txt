@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.exe
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.deps.json
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.dll
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.pdb
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.dll
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.pdb
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\05.TeamWorkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.genruntimeconfig.cache

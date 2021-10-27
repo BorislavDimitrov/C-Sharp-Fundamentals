@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\bin\Debug\netcoreapp3.1\05.ShoppingSpree.exe
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\bin\Debug\netcoreapp3.1\05.ShoppingSpree.deps.json
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\bin\Debug\netcoreapp3.1\05.ShoppingSpree.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\bin\Debug\netcoreapp3.1\05.ShoppingSpree.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\bin\Debug\netcoreapp3.1\05.ShoppingSpree.dll
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\bin\Debug\netcoreapp3.1\05.ShoppingSpree.pdb
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\obj\Debug\netcoreapp3.1\05.ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\obj\Debug\netcoreapp3.1\05.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\obj\Debug\netcoreapp3.1\05.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\obj\Debug\netcoreapp3.1\05.ShoppingSpree.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\obj\Debug\netcoreapp3.1\05.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\obj\Debug\netcoreapp3.1\05.ShoppingSpree.dll
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\obj\Debug\netcoreapp3.1\05.ShoppingSpree.pdb
+C:\Users\Borislav-PC\source\repos\17.ObjectsAndClassesMoreExercise\05.ShoppingSpree\obj\Debug\netcoreapp3.1\05.ShoppingSpree.genruntimeconfig.cache

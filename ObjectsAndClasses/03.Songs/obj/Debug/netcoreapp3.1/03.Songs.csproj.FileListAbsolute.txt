@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.exe
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.deps.json
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.dll
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.pdb
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.dll
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.pdb
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.genruntimeconfig.cache

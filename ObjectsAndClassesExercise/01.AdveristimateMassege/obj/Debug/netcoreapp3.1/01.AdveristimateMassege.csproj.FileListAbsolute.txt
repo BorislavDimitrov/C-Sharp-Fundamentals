@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\bin\Debug\netcoreapp3.1\01.AdveristimateMassege.exe
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\bin\Debug\netcoreapp3.1\01.AdveristimateMassege.deps.json
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\bin\Debug\netcoreapp3.1\01.AdveristimateMassege.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\bin\Debug\netcoreapp3.1\01.AdveristimateMassege.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\bin\Debug\netcoreapp3.1\01.AdveristimateMassege.dll
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\bin\Debug\netcoreapp3.1\01.AdveristimateMassege.pdb
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\obj\Debug\netcoreapp3.1\01.AdveristimateMassege.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\obj\Debug\netcoreapp3.1\01.AdveristimateMassege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\obj\Debug\netcoreapp3.1\01.AdveristimateMassege.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\obj\Debug\netcoreapp3.1\01.AdveristimateMassege.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\obj\Debug\netcoreapp3.1\01.AdveristimateMassege.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\obj\Debug\netcoreapp3.1\01.AdveristimateMassege.dll
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\obj\Debug\netcoreapp3.1\01.AdveristimateMassege.pdb
+C:\Users\Borislav-PC\source\repos\16.ObjectsAndClassesExercise\01.AdveristimateMassege\obj\Debug\netcoreapp3.1\01.AdveristimateMassege.genruntimeconfig.cache

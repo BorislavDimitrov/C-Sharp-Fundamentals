@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\bin\Debug\netcoreapp3.1\07.VehileCatalogue.exe
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\bin\Debug\netcoreapp3.1\07.VehileCatalogue.deps.json
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\bin\Debug\netcoreapp3.1\07.VehileCatalogue.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\bin\Debug\netcoreapp3.1\07.VehileCatalogue.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\bin\Debug\netcoreapp3.1\07.VehileCatalogue.dll
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\bin\Debug\netcoreapp3.1\07.VehileCatalogue.pdb
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\obj\Debug\netcoreapp3.1\07.VehileCatalogue.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\obj\Debug\netcoreapp3.1\07.VehileCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\obj\Debug\netcoreapp3.1\07.VehileCatalogue.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\obj\Debug\netcoreapp3.1\07.VehileCatalogue.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\obj\Debug\netcoreapp3.1\07.VehileCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\obj\Debug\netcoreapp3.1\07.VehileCatalogue.dll
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\obj\Debug\netcoreapp3.1\07.VehileCatalogue.pdb
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\07.VehileCatalogue\obj\Debug\netcoreapp3.1\07.VehileCatalogue.genruntimeconfig.cache

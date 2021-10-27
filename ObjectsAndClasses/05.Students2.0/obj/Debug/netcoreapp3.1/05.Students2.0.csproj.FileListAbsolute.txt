@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\bin\Debug\netcoreapp3.1\05.Students2.0.exe
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\bin\Debug\netcoreapp3.1\05.Students2.0.deps.json
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\bin\Debug\netcoreapp3.1\05.Students2.0.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\bin\Debug\netcoreapp3.1\05.Students2.0.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\bin\Debug\netcoreapp3.1\05.Students2.0.dll
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\bin\Debug\netcoreapp3.1\05.Students2.0.pdb
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\obj\Debug\netcoreapp3.1\05.Students2.0.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\obj\Debug\netcoreapp3.1\05.Students2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\obj\Debug\netcoreapp3.1\05.Students2.0.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\obj\Debug\netcoreapp3.1\05.Students2.0.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\obj\Debug\netcoreapp3.1\05.Students2.0.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\obj\Debug\netcoreapp3.1\05.Students2.0.dll
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\obj\Debug\netcoreapp3.1\05.Students2.0.pdb
+C:\Users\Borislav-PC\source\repos\15.ObjectsAndClasses\05.Students2.0\obj\Debug\netcoreapp3.1\05.Students2.0.genruntimeconfig.cache
