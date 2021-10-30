@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.exe
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.deps.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.dll
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.pdb
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.dll
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.pdb
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.genruntimeconfig.cache

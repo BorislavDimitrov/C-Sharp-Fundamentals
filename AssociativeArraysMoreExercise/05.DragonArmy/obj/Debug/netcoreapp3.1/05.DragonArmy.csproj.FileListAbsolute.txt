@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\bin\Debug\netcoreapp3.1\05.DragonArmy.exe
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\bin\Debug\netcoreapp3.1\05.DragonArmy.deps.json
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\bin\Debug\netcoreapp3.1\05.DragonArmy.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\bin\Debug\netcoreapp3.1\05.DragonArmy.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\bin\Debug\netcoreapp3.1\05.DragonArmy.dll
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\bin\Debug\netcoreapp3.1\05.DragonArmy.pdb
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\obj\Debug\netcoreapp3.1\05.DragonArmy.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\obj\Debug\netcoreapp3.1\05.DragonArmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\obj\Debug\netcoreapp3.1\05.DragonArmy.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\obj\Debug\netcoreapp3.1\05.DragonArmy.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\obj\Debug\netcoreapp3.1\05.DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\obj\Debug\netcoreapp3.1\05.DragonArmy.dll
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\obj\Debug\netcoreapp3.1\05.DragonArmy.pdb
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\05.DragonArmy\obj\Debug\netcoreapp3.1\05.DragonArmy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wcDThJtOzE9PQ0c9k4S5sMCh+D4cGO3KEXHADOJVX3P880Q3H5WvnIKkzIJ1+V2lZfuMjvCQYDTGVdLneXYaaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Borislav-PC\\source\\repos\\21.AssociativeArraysExercise\\02.AMinerTask\\02.AMinerTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

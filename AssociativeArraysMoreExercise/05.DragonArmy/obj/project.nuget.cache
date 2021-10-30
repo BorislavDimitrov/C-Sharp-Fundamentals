@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RaNik5cb4BZXDBbGzLLmsHmlRnoBIMR0Ku4B086dSLr/2/m4DC/KHa6GBiHKiWo5a1Oqq+fvRuDlXtxcZt86dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Borislav-PC\\source\\repos\\22.AssociativeArraysMoreExercise\\05.DragonArmy\\05.DragonArmy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

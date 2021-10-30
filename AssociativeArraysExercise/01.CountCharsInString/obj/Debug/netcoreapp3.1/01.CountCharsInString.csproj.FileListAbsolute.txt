@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\bin\Debug\netcoreapp3.1\01.CountCharsInString.exe
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\bin\Debug\netcoreapp3.1\01.CountCharsInString.deps.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\bin\Debug\netcoreapp3.1\01.CountCharsInString.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\bin\Debug\netcoreapp3.1\01.CountCharsInString.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\bin\Debug\netcoreapp3.1\01.CountCharsInString.dll
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\bin\Debug\netcoreapp3.1\01.CountCharsInString.pdb
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\obj\Debug\netcoreapp3.1\01.CountCharsInString.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\obj\Debug\netcoreapp3.1\01.CountCharsInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\obj\Debug\netcoreapp3.1\01.CountCharsInString.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\obj\Debug\netcoreapp3.1\01.CountCharsInString.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\obj\Debug\netcoreapp3.1\01.CountCharsInString.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\obj\Debug\netcoreapp3.1\01.CountCharsInString.dll
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\obj\Debug\netcoreapp3.1\01.CountCharsInString.pdb
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\01.CountCharsInString\obj\Debug\netcoreapp3.1\01.CountCharsInString.genruntimeconfig.cache

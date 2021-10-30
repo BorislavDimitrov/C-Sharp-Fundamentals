@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QI91rmbf/qFJL4GVlMZwDZdyPZ3oXGLMz0G5Ue9ZZ5rjjAralomSVZfqMyDE2lX8/1Xiya1CpDqg0XR69cHenQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Borislav-PC\\source\\repos\\21.AssociativeArraysExercise\\08.CompanyUsers\\08.CompanyUsers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

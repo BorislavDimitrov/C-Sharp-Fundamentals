@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.exe
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.deps.json
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.dll
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.pdb
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.dll
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.pdb
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.genruntimeconfig.cache

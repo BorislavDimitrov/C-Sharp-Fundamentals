@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IEeGdNcBX/NEZysK523mjMnvsAXT5i9g9Phx4yaTkQU7fVH7Azwn3s+F7/eQkGLHdJGSifDr3QiY1BZhuIkVrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Borislav-PC\\source\\repos\\20.AssociativeArrays\\03.WordsSynonyms\\03.WordsSynonyms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

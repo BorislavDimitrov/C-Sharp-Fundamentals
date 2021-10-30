@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\bin\Debug\netcoreapp3.1\07.StudentAcademy.exe
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\bin\Debug\netcoreapp3.1\07.StudentAcademy.deps.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\bin\Debug\netcoreapp3.1\07.StudentAcademy.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\bin\Debug\netcoreapp3.1\07.StudentAcademy.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\bin\Debug\netcoreapp3.1\07.StudentAcademy.dll
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\bin\Debug\netcoreapp3.1\07.StudentAcademy.pdb
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\obj\Debug\netcoreapp3.1\07.StudentAcademy.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\obj\Debug\netcoreapp3.1\07.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\obj\Debug\netcoreapp3.1\07.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\obj\Debug\netcoreapp3.1\07.StudentAcademy.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\obj\Debug\netcoreapp3.1\07.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\obj\Debug\netcoreapp3.1\07.StudentAcademy.dll
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\obj\Debug\netcoreapp3.1\07.StudentAcademy.pdb
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\07.StudentAcademy\obj\Debug\netcoreapp3.1\07.StudentAcademy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5iohIVi1RFJ0Djt6Jz/oa6NyEr86SNR7SIMFmDmR7RUqu6EDsyxkbW3A8dIYs/vycqYpsc74D+nd7sTrIfDiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Borislav-PC\\source\\repos\\22.AssociativeArraysMoreExercise\\01.Ranking\\01.Ranking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Borislav-PC\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

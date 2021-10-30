@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.exe
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.deps.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.dll
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.pdb
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.dll
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.pdb
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.genruntimeconfig.cache

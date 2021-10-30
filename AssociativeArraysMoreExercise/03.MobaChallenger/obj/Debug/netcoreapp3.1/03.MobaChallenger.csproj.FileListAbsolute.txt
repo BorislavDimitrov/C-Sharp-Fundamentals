@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\bin\Debug\netcoreapp3.1\03.MobaChallenger.exe
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\bin\Debug\netcoreapp3.1\03.MobaChallenger.deps.json
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\bin\Debug\netcoreapp3.1\03.MobaChallenger.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\bin\Debug\netcoreapp3.1\03.MobaChallenger.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\bin\Debug\netcoreapp3.1\03.MobaChallenger.dll
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\bin\Debug\netcoreapp3.1\03.MobaChallenger.pdb
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\obj\Debug\netcoreapp3.1\03.MobaChallenger.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\obj\Debug\netcoreapp3.1\03.MobaChallenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\obj\Debug\netcoreapp3.1\03.MobaChallenger.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\obj\Debug\netcoreapp3.1\03.MobaChallenger.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\obj\Debug\netcoreapp3.1\03.MobaChallenger.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\obj\Debug\netcoreapp3.1\03.MobaChallenger.dll
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\obj\Debug\netcoreapp3.1\03.MobaChallenger.pdb
+C:\Users\Borislav-PC\source\repos\22.AssociativeArraysMoreExercise\03.MobaChallenger\obj\Debug\netcoreapp3.1\03.MobaChallenger.genruntimeconfig.cache

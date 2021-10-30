@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\bin\Debug\netcoreapp3.1\04.LargestThreeNumbers.exe
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\bin\Debug\netcoreapp3.1\04.LargestThreeNumbers.deps.json
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\bin\Debug\netcoreapp3.1\04.LargestThreeNumbers.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\bin\Debug\netcoreapp3.1\04.LargestThreeNumbers.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\bin\Debug\netcoreapp3.1\04.LargestThreeNumbers.dll
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\bin\Debug\netcoreapp3.1\04.LargestThreeNumbers.pdb
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\obj\Debug\netcoreapp3.1\04.LargestThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\obj\Debug\netcoreapp3.1\04.LargestThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\obj\Debug\netcoreapp3.1\04.LargestThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\obj\Debug\netcoreapp3.1\04.LargestThreeNumbers.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\obj\Debug\netcoreapp3.1\04.LargestThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\obj\Debug\netcoreapp3.1\04.LargestThreeNumbers.dll
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\obj\Debug\netcoreapp3.1\04.LargestThreeNumbers.pdb
+C:\Users\Borislav-PC\source\repos\20.AssociativeArrays\04.LargestThreeNumbers\obj\Debug\netcoreapp3.1\04.LargestThreeNumbers.genruntimeconfig.cache

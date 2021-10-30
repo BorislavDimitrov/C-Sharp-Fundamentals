@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.exe
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.deps.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.dll
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.pdb
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.dll
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.pdb
+C:\Users\Borislav-PC\source\repos\21.AssociativeArraysExercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.genruntimeconfig.cache
