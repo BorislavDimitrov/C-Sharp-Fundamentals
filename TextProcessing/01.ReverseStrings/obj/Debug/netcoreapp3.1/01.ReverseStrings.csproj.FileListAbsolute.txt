@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.exe
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.deps.json
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.dll
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\bin\Debug\netcoreapp3.1\01.ReverseStrings.pdb
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.dll
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.pdb
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\01.ReverseStrings\obj\Debug\netcoreapp3.1\01.ReverseStrings.genruntimeconfig.cache

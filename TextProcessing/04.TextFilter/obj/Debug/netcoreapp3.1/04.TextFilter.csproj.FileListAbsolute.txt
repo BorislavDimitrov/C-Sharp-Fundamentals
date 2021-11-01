@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.exe
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.deps.json
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.dll
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\bin\Debug\netcoreapp3.1\04.TextFilter.pdb
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.dll
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.pdb
+C:\Users\Borislav-PC\source\repos\23.TextProcessing\04.TextFilter\obj\Debug\netcoreapp3.1\04.TextFilter.genruntimeconfig.cache
