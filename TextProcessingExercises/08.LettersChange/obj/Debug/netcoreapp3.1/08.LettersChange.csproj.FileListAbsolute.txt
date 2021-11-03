@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\bin\Debug\netcoreapp3.1\08.LettersChange.exe
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\bin\Debug\netcoreapp3.1\08.LettersChange.deps.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\bin\Debug\netcoreapp3.1\08.LettersChange.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\bin\Debug\netcoreapp3.1\08.LettersChange.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\bin\Debug\netcoreapp3.1\08.LettersChange.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\bin\Debug\netcoreapp3.1\08.LettersChange.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\obj\Debug\netcoreapp3.1\08.LettersChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\obj\Debug\netcoreapp3.1\08.LettersChange.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\obj\Debug\netcoreapp3.1\08.LettersChange.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\obj\Debug\netcoreapp3.1\08.LettersChange.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\obj\Debug\netcoreapp3.1\08.LettersChange.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\obj\Debug\netcoreapp3.1\08.LettersChange.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\obj\Debug\netcoreapp3.1\08.LettersChange.genruntimeconfig.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\08.LettersChange\obj\Debug\netcoreapp3.1\08.LettersChange.csproj.AssemblyReference.cache

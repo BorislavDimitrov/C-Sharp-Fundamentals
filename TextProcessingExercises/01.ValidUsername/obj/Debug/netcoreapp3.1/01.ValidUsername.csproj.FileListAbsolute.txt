@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.exe
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.deps.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\bin\Debug\netcoreapp3.1\01.ValidUsername.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\01.ValidUsername\obj\Debug\netcoreapp3.1\01.ValidUsername.genruntimeconfig.cache

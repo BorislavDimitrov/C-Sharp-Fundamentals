@@ -1,0 +1,13 @@
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\bin\Debug\netcoreapp3.1\04.CaesarCipther.exe
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\bin\Debug\netcoreapp3.1\04.CaesarCipther.deps.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\bin\Debug\netcoreapp3.1\04.CaesarCipther.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\bin\Debug\netcoreapp3.1\04.CaesarCipther.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\bin\Debug\netcoreapp3.1\04.CaesarCipther.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\bin\Debug\netcoreapp3.1\04.CaesarCipther.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\obj\Debug\netcoreapp3.1\04.CaesarCipther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\obj\Debug\netcoreapp3.1\04.CaesarCipther.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\obj\Debug\netcoreapp3.1\04.CaesarCipther.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\obj\Debug\netcoreapp3.1\04.CaesarCipther.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\obj\Debug\netcoreapp3.1\04.CaesarCipther.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\obj\Debug\netcoreapp3.1\04.CaesarCipther.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\04.CaesarCipther\obj\Debug\netcoreapp3.1\04.CaesarCipther.genruntimeconfig.cache

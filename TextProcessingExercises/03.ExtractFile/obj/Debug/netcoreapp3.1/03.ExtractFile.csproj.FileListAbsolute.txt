@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.exe
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.deps.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.genruntimeconfig.cache

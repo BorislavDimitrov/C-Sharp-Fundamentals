@@ -1,0 +1,13 @@
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.exe
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.deps.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.genruntimeconfig.cache

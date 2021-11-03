@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.exe
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.deps.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.genruntimeconfig.cache

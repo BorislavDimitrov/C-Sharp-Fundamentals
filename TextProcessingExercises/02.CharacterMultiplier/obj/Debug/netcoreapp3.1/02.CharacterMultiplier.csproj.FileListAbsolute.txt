@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.exe
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.deps.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.dll
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.pdb
+C:\Users\Borislav-PC\source\repos\24.TextProcessingExercises\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.genruntimeconfig.cache
