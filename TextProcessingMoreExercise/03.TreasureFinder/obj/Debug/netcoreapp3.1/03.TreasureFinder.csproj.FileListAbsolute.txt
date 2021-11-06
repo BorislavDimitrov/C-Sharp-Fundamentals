@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.exe
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.deps.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.dll
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\bin\Debug\netcoreapp3.1\03.TreasureFinder.pdb
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.dll
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.pdb
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\03.TreasureFinder\obj\Debug\netcoreapp3.1\03.TreasureFinder.genruntimeconfig.cache

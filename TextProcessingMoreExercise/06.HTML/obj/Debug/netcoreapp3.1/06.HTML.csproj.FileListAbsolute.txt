@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\bin\Debug\netcoreapp3.1\06.HTML.exe
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\bin\Debug\netcoreapp3.1\06.HTML.deps.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\bin\Debug\netcoreapp3.1\06.HTML.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\bin\Debug\netcoreapp3.1\06.HTML.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\bin\Debug\netcoreapp3.1\06.HTML.dll
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\bin\Debug\netcoreapp3.1\06.HTML.pdb
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\obj\Debug\netcoreapp3.1\06.HTML.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\obj\Debug\netcoreapp3.1\06.HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\obj\Debug\netcoreapp3.1\06.HTML.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\obj\Debug\netcoreapp3.1\06.HTML.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\obj\Debug\netcoreapp3.1\06.HTML.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\obj\Debug\netcoreapp3.1\06.HTML.dll
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\obj\Debug\netcoreapp3.1\06.HTML.pdb
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\06.HTML\obj\Debug\netcoreapp3.1\06.HTML.genruntimeconfig.cache

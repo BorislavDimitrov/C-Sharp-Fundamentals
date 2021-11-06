@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\bin\Debug\netcoreapp3.1\05.MorseCodeTranslator.exe
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\bin\Debug\netcoreapp3.1\05.MorseCodeTranslator.deps.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\bin\Debug\netcoreapp3.1\05.MorseCodeTranslator.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\bin\Debug\netcoreapp3.1\05.MorseCodeTranslator.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\bin\Debug\netcoreapp3.1\05.MorseCodeTranslator.dll
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\bin\Debug\netcoreapp3.1\05.MorseCodeTranslator.pdb
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\obj\Debug\netcoreapp3.1\05.MorseCodeTranslator.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\obj\Debug\netcoreapp3.1\05.MorseCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\obj\Debug\netcoreapp3.1\05.MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\obj\Debug\netcoreapp3.1\05.MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\obj\Debug\netcoreapp3.1\05.MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\obj\Debug\netcoreapp3.1\05.MorseCodeTranslator.dll
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\obj\Debug\netcoreapp3.1\05.MorseCodeTranslator.pdb
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\05.MorseCodeTranslator\obj\Debug\netcoreapp3.1\05.MorseCodeTranslator.genruntimeconfig.cache

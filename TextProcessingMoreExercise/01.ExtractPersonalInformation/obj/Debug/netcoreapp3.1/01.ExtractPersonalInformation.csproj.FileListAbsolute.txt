@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonalInformation.exe
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonalInformation.deps.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonalInformation.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonalInformation.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonalInformation.dll
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonalInformation.pdb
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonalInformation.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonalInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonalInformation.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonalInformation.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonalInformation.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonalInformation.dll
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonalInformation.pdb
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\01.ExtractPersonalInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonalInformation.genruntimeconfig.cache

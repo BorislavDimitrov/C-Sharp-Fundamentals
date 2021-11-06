@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.exe
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.deps.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.dll
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.pdb
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.dll
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.pdb
+C:\Users\Borislav-PC\source\repos\25.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.genruntimeconfig.cache
