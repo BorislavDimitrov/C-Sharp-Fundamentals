@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.exe
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.deps.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.dll
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\bin\Debug\netcoreapp3.1\04.StarEnigma.pdb
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.dll
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.pdb
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\04.StarEnigma\obj\Debug\netcoreapp3.1\04.StarEnigma.genruntimeconfig.cache

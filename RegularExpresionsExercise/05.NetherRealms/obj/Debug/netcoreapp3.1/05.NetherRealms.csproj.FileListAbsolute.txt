@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.exe
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.deps.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.dll
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.pdb
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.dll
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.pdb
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.genruntimeconfig.cache

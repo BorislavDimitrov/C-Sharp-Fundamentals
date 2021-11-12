@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\bin\Debug\netcoreapp3.1\03.SoftuniBarIncome.exe
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\bin\Debug\netcoreapp3.1\03.SoftuniBarIncome.deps.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\bin\Debug\netcoreapp3.1\03.SoftuniBarIncome.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\bin\Debug\netcoreapp3.1\03.SoftuniBarIncome.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\bin\Debug\netcoreapp3.1\03.SoftuniBarIncome.dll
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\bin\Debug\netcoreapp3.1\03.SoftuniBarIncome.pdb
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\obj\Debug\netcoreapp3.1\03.SoftuniBarIncome.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\obj\Debug\netcoreapp3.1\03.SoftuniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\obj\Debug\netcoreapp3.1\03.SoftuniBarIncome.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\obj\Debug\netcoreapp3.1\03.SoftuniBarIncome.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\obj\Debug\netcoreapp3.1\03.SoftuniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\obj\Debug\netcoreapp3.1\03.SoftuniBarIncome.dll
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\obj\Debug\netcoreapp3.1\03.SoftuniBarIncome.pdb
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\03.SoftuniBarIncome\obj\Debug\netcoreapp3.1\03.SoftuniBarIncome.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.exe
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.deps.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.dll
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.pdb
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.dll
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.pdb
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.genruntimeconfig.cache

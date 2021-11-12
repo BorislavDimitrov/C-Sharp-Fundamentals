@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\bin\Debug\netcoreapp3.1\01.Forniture.exe
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\bin\Debug\netcoreapp3.1\01.Forniture.deps.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\bin\Debug\netcoreapp3.1\01.Forniture.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\bin\Debug\netcoreapp3.1\01.Forniture.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\bin\Debug\netcoreapp3.1\01.Forniture.dll
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\bin\Debug\netcoreapp3.1\01.Forniture.pdb
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\obj\Debug\netcoreapp3.1\01.Forniture.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\obj\Debug\netcoreapp3.1\01.Forniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\obj\Debug\netcoreapp3.1\01.Forniture.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\obj\Debug\netcoreapp3.1\01.Forniture.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\obj\Debug\netcoreapp3.1\01.Forniture.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\obj\Debug\netcoreapp3.1\01.Forniture.dll
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\obj\Debug\netcoreapp3.1\01.Forniture.pdb
+C:\Users\Borislav-PC\source\repos\27.RegularExpresionsExercise\01.Forniture\obj\Debug\netcoreapp3.1\01.Forniture.genruntimeconfig.cache
