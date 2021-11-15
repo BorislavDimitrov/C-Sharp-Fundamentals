@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\bin\Debug\netcoreapp3.1\03.PostOffice.exe
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\bin\Debug\netcoreapp3.1\03.PostOffice.deps.json
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\bin\Debug\netcoreapp3.1\03.PostOffice.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\bin\Debug\netcoreapp3.1\03.PostOffice.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\bin\Debug\netcoreapp3.1\03.PostOffice.dll
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\bin\Debug\netcoreapp3.1\03.PostOffice.pdb
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\obj\Debug\netcoreapp3.1\03.PostOffice.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\obj\Debug\netcoreapp3.1\03.PostOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\obj\Debug\netcoreapp3.1\03.PostOffice.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\obj\Debug\netcoreapp3.1\03.PostOffice.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\obj\Debug\netcoreapp3.1\03.PostOffice.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\obj\Debug\netcoreapp3.1\03.PostOffice.dll
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\obj\Debug\netcoreapp3.1\03.PostOffice.pdb
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\03.PostOffice\obj\Debug\netcoreapp3.1\03.PostOffice.genruntimeconfig.cache

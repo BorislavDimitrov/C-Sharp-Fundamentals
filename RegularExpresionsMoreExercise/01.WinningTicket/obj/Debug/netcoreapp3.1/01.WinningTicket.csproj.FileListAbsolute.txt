@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.exe
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.deps.json
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.dll
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\bin\Debug\netcoreapp3.1\01.WinningTicket.pdb
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.dll
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.pdb
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\01.WinningTicket\obj\Debug\netcoreapp3.1\01.WinningTicket.genruntimeconfig.cache

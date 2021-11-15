@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\bin\Debug\netcoreapp3.1\02.RageQuit.exe
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\bin\Debug\netcoreapp3.1\02.RageQuit.deps.json
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\bin\Debug\netcoreapp3.1\02.RageQuit.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\bin\Debug\netcoreapp3.1\02.RageQuit.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\bin\Debug\netcoreapp3.1\02.RageQuit.dll
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\bin\Debug\netcoreapp3.1\02.RageQuit.pdb
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\obj\Debug\netcoreapp3.1\02.RageQuit.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\obj\Debug\netcoreapp3.1\02.RageQuit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\obj\Debug\netcoreapp3.1\02.RageQuit.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\obj\Debug\netcoreapp3.1\02.RageQuit.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\obj\Debug\netcoreapp3.1\02.RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\obj\Debug\netcoreapp3.1\02.RageQuit.dll
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\obj\Debug\netcoreapp3.1\02.RageQuit.pdb
+C:\Users\Borislav-PC\source\repos\28.RegularExpresionsMoreExercise\02.RageQuit\obj\Debug\netcoreapp3.1\02.RageQuit.genruntimeconfig.cache
