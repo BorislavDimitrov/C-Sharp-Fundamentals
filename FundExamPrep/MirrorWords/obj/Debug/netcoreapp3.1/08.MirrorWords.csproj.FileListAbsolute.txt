@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.exe
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.deps.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\02.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.genruntimeconfig.cache
