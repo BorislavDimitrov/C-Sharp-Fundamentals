@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\bin\Debug\netcoreapp3.1\03.ThePaintist.exe
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\bin\Debug\netcoreapp3.1\03.ThePaintist.deps.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\bin\Debug\netcoreapp3.1\03.ThePaintist.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\bin\Debug\netcoreapp3.1\03.ThePaintist.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\bin\Debug\netcoreapp3.1\03.ThePaintist.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\bin\Debug\netcoreapp3.1\03.ThePaintist.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\obj\Debug\netcoreapp3.1\03.ThePaintist.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\obj\Debug\netcoreapp3.1\03.ThePaintist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\obj\Debug\netcoreapp3.1\03.ThePaintist.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\obj\Debug\netcoreapp3.1\03.ThePaintist.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\obj\Debug\netcoreapp3.1\03.ThePaintist.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\obj\Debug\netcoreapp3.1\03.ThePaintist.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\obj\Debug\netcoreapp3.1\03.ThePaintist.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\03.ThePaintist\obj\Debug\netcoreapp3.1\03.ThePaintist.genruntimeconfig.cache
