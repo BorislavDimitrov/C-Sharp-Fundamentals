@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.exe
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.deps.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.genruntimeconfig.cache
