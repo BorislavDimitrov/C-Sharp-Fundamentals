@@ -1,0 +1,13 @@
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.exe
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.deps.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.genruntimeconfig.cache

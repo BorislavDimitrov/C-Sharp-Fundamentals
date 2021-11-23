@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\bin\Debug\netcoreapp3.1\06.PlantDiscovery.exe
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\bin\Debug\netcoreapp3.1\06.PlantDiscovery.deps.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\bin\Debug\netcoreapp3.1\06.PlantDiscovery.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\bin\Debug\netcoreapp3.1\06.PlantDiscovery.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\bin\Debug\netcoreapp3.1\06.PlantDiscovery.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\bin\Debug\netcoreapp3.1\06.PlantDiscovery.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\obj\Debug\netcoreapp3.1\06.PlantDiscovery.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\obj\Debug\netcoreapp3.1\06.PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\obj\Debug\netcoreapp3.1\06.PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\obj\Debug\netcoreapp3.1\06.PlantDiscovery.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\obj\Debug\netcoreapp3.1\06.PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\obj\Debug\netcoreapp3.1\06.PlantDiscovery.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\obj\Debug\netcoreapp3.1\06.PlantDiscovery.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\06.PlantDiscovery\obj\Debug\netcoreapp3.1\06.PlantDiscovery.genruntimeconfig.cache
