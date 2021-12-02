@@ -1,0 +1,14 @@
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\bin\Debug\netcoreapp3.1\TheImitationGame.exe
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\bin\Debug\netcoreapp3.1\TheImitationGame.deps.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\bin\Debug\netcoreapp3.1\TheImitationGame.runtimeconfig.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\bin\Debug\netcoreapp3.1\TheImitationGame.runtimeconfig.dev.json
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\bin\Debug\netcoreapp3.1\TheImitationGame.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\bin\Debug\netcoreapp3.1\TheImitationGame.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\obj\Debug\netcoreapp3.1\TheImitationGame.csproj.AssemblyReference.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\obj\Debug\netcoreapp3.1\TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\obj\Debug\netcoreapp3.1\TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\obj\Debug\netcoreapp3.1\TheImitationGame.AssemblyInfo.cs
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\obj\Debug\netcoreapp3.1\TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\obj\Debug\netcoreapp3.1\TheImitationGame.dll
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\obj\Debug\netcoreapp3.1\TheImitationGame.pdb
+C:\Users\Borislav-PC\source\repos\29.FinalExam\TheImitationGame\obj\Debug\netcoreapp3.1\TheImitationGame.genruntimeconfig.cache
